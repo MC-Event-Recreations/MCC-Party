@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "purple_guy",
+		"description": "purple_guy Behavior Pack",
+		"uuid": "10aaa886-1e09-e405-9163-0775e0d674ca",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Archerknight21"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.5.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "092fcba3-3caf-74f4-756b-0b4478e5e29e",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "35d014f4-a8c8-b498-05e9-eefb2153186c",
+			"version": [1, 0, 0]
+		}
+	]
+}

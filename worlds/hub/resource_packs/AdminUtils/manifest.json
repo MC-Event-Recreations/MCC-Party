@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": ["MisledPaul58"]
+	},
+	"header": {
+		"name": "§l§o§cAdmin§aUtils §b[1.21.0]",
+		"description": "§l§sAdminUtils offers a wide range of tools to help you control and improve your world/server.\n§l§cYou can also troll your friends with some tools!\n§l§o§6Enjoy!",
+		"min_engine_version": [1, 19, 0],
+		"uuid": "7477870a-d721-44a1-beb6-5b39f9049e27",
+		"version": [1, 1, 1]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "01229d39-53c0-4aa2-a831-0b8db422aa81",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "9bf627d5-d1e0-4195-b581-897a2a34f372",
+			"version": [1, 1, 1]
+		}
+	]
+}

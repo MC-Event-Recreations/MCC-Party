@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.player.vanish": {
+			"loop": true,
+			"bones": {
+				"root": {
+					"position": [-5000, -5000, -5000]
+				},
+				"waist": {
+					"position": [-5000, -5000, -5000]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,64 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "BDS/BDSX (Beta) (1.1.0) ",
+        "description": "All rights reserved to economyplus.solutions",
+        "uuid": "40426db4-78f0-4342-b0a5-b10ffe14e6c0",
+        "version": [
+            1,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            0
+        ]
+    },
+    "capabilities": [
+        "script_eval"
+    ],
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "84d5a89b-8dcc-0308-a7d7-fd5f8123bba7",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "entry": "scripts/index.js",
+            "uuid": "2fa09013-80e6-c43a-e1c7-73dafb30fdd0",
+            "version": "1.6.0"
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Sha386"
+        ],
+        "license": "All rights reserved to economyplus.solutions, you may not redistribute this pack without permission from the author.",
+        "description": "Ingame pack made to work with Fairplay+ management tool. More info can be found in economyplus.solutions/dashboard"
+    },
+    "dependencies": [
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.11.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.2.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-gametest",
+            "version": "1.0.0-beta"
+        },
+        {
+            "module_name": "@minecraft/server-net",
+            "version": "1.0.0-beta"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "purple_guy",
+		"description": "purple_guy Resource Pack",
+		"uuid": "35d014f4-a8c8-b498-05e9-eefb2153186c",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Archerknight21"],
+		"generated_with": {
+			"blockbench_entity_wizard": ["1.5.1"]
+		}
+	},
+	"modules": [
+		{
+			"description": "purple_guy",
+			"type": "resources",
+			"uuid": "e2862a16-8707-1f2e-abbf-4cbd3514ae9d",
+			"version": [1, 0, 0]
+		}
+	]
+}

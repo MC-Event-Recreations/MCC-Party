@@ -1,0 +1,64 @@
+{
+    "format_version": "1.20.0",
+    "sound_definitions": {
+        "player_launch": {
+            "category": "player",
+            "sounds": ["sounds/player_launch"]
+        },
+        "random.click": {
+            "category": "ui",
+            "sounds": [
+                {
+                    "name": "sounds/random/click",
+                    "volume": 0.2,
+                    "load_on_low_memory": true
+                }
+            ]
+        },
+        "au.menuOpen": {
+            "category": "ui",
+            "sounds": [
+                {
+                    "name": "sounds/random/menuOpen",
+                    "volume": 0.3,
+                    "load_on_low_memory": true
+                }
+            ]
+        },
+        "au.success": {
+            "category": "ui",
+            "sounds": [
+                {
+                    "name": "sounds/random/success1",
+                    "volume": 0.3,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/random/success2",
+                    "volume": 0.3,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/random/success3",
+                    "volume": 0.3,
+                    "load_on_low_memory": true
+                }
+            ]
+        },
+        "au.error": {
+            "category": "ui",
+            "sounds": [
+                {
+                    "name": "sounds/random/error1",
+                    "volume": 0.3,
+                    "load_on_low_memory": true
+                },
+                {
+                    "name": "sounds/random/error2",
+                    "volume": 0.3,
+                    "load_on_low_memory": true
+                }
+            ]
+        }
+    }
+}

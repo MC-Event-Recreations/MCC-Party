@@ -1,0 +1,21 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "the_owner_of_the_archive_mcc:purple",
+			"materials": {
+				"default": "entity_alphatest"
+			},
+			"textures": {
+				"default": "textures/entity/purple"
+			},
+			"geometry": {
+				"default": "geometry.purple"
+			},
+			"render_controllers": ["controller.render.default"],
+			"spawn_egg": {
+				"texture": "purple_spawn_egg"
+			}
+		}
+	}
+}
